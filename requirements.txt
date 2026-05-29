@@ -1,0 +1,15 @@
+# Core Libraries
+networkx>=3.0
+matplotlib>=3.7
+pandas>=2.0
+numpy>=1.24
+
+# Community Detection
+python-louvain>=0.16
+
+# Excel File Support
+openpyxl>=3.1
+
+# Jupyter Notebook Environment
+jupyter>=1.0
+notebook>=7.0
